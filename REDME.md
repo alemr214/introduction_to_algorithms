@@ -12,6 +12,8 @@ You find every example in a folder as the same name of the chapter in the book a
 
     introduction_to_algorithms/
     ├─ chapter_1/
+    │  ├─ getting_started/
+    │  ├─ characterizing_running_times/
     │  ├─ divide_and_conquer/
     │  ├─ getting_started/
     │  └─ probabilistic_analysis_randomized_algorithms/
