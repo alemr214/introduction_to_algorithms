@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# VSCode extension settings
+**/.vscode
+
+# Output runner directory
+**/build
